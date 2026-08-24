@@ -9,4 +9,4 @@ Practice deliverables from the Masai x IIT Roorkee Product Management certificat
 | [01](session-01-pm-with-ai/) | PM with AI | PM Ecosystem infographic |
 | [02](session-02-day-in-life/) | Day in the Life | Day in the Life at Cars24 |
 | [03](session-03-research-methods/) | Research Methods | One-page research plan (Blinkit) |
-| [04](session-04-user-interviews/) | The Art of the User Interview | Bias teardown (Zepto) |
+| [04](session-04-user-interviews/) | The Art of the User Interview | AI research prompt (Xbox Game Pass) |

@@ -1,17 +1,13 @@
-A question can be technically polite and still be dishonest.
+I asked an AI to interview me about my own biases before I wrote a single research question.
 
-That's what this session was really about. Not how to be nice to users — how to notice when your own question has already decided the answer.
+That was the exercise: run a structured prompt end to end on a real product, and see how far it gets you on day one versus what it would normally take months to learn.
 
-The instructor gave us a real case to work through: a man's mother suffered permanent paralysis because an ambulance, navigating with Google Maps, took 30 minutes for what should have been a 5-minute drive. As the Google Maps PM, you get to interview him. Write two questions.
+I picked Xbox Game Pass. The prompt asked me one question first — what's the product — then played back its own read of the target customer and the user journey, and asked me to correct anything it got wrong. Only after that did it draft ten research questions.
 
-Almost the entire class failed. "Would you use Google Maps during an emergency again?" He'll say never — you've learned nothing except that he's angry, which you already knew. "What percentage of your rides ended at the wrong destination?" Nobody tracks that number in their head. You've just added weight to someone already carrying too much.
+The interesting part wasn't the questions. It was watching it catch its own mistakes. It flagged "what makes playing through Game Pass difficult?" as an assumption that difficulty exists at all. It flagged "why did you subscribe?" as a question that invites a rationalized answer instead of the real decision. Then it rewrote both — "tell me about a time Game Pass didn't have something you wanted, what did you do next" instead of assuming friction, "think back to when you first subscribed, what was happening at that time" instead of asking for a reason.
 
-The rule that stuck: if a question has a bias, you don't fix it. You delete it and ask something else. There's no clever rescue for a leading question.
+That's the actual skill this session was teaching. Not writing questions — noticing the ones that already contain their own answer.
 
-We named six ways a question quietly rigs its own answer — leading, assumptive, confirmation, social desirability, double-barrelled, recency. Then we ran real questions through the list. I did the same exercise on Zepto for my portfolio: wrote ten questions the way a PM actually would, and eight turned out to be broken in ways I hadn't noticed while writing them. "Would you use a subscription if it guaranteed faster delivery?" sounds reasonable until you realize you've built the feature into the question and you're just asking someone to be polite about it.
-
-The fix is almost mechanical once you see it. Every question has to carry a what and a how in the same sentence, and it has to be about something that already happened. "What made you open the app last time, and how did you decide?" — not "would you use X."
-
-And never ask why. It sounds like an accusation even when you don't mean it that way.
+The instructor's point about this stuck with me: "I would have never thought of these questions if I was going in as a fresher. It would take six or seven months to get here." AI doesn't replace the judgment. It gets you a competent first draft before you've earned the judgment yourself.
 
 #ProductManagement #AIProductManagement #ArtificialIntelligence #ProductThinking #ProductManager #Masai #IITRoorkee #LearningInPublic #ContinuousLearning #CareerGrowth #AIPM
