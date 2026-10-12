@@ -10,3 +10,4 @@ Practice deliverables from the Masai x IIT Roorkee Product Management certificat
 | [02](session-02-day-in-life/) | Day in the Life | Day in the Life at Cars24 |
 | [03](session-03-research-methods/) | Research Methods | One-page research plan (Blinkit) |
 | [04](session-04-user-interviews/) | The Art of the User Interview | AI research prompt (Xbox Game Pass) |
+| [11](session-11-github-copilot/) | GitHub Copilot | Snakes and Ladders game with PRD |
